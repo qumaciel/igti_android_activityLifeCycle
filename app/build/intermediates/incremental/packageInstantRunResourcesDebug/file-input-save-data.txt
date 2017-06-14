@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Jun 14 18:43:40 BRT 2017
+2.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_dialog.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_c.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_a.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_b.xml
+0.set=ANDROID_RESOURCE

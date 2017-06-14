@@ -1,0 +1,82 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/libraries/
+* .idea/libraries/android_support_v13.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* ActivityLifecycle.iml
+* activitylifecycle.properties
+* activitylifecycle.xml
+* ant.properties
+* build.properties
+* build.xml
+* default.properties
+* module_activitylifecycle.xml
+* out/
+* out/production/
+* out/production/ActivityLifecycle/
+* out/production/ActivityLifecycle/ActivityLifecycle.apk
+* out/production/ActivityLifecycle/com/
+* out/production/ActivityLifecycle/com/example/
+* out/production/ActivityLifecycle/com/example/android/
+* out/production/ActivityLifecycle/com/example/android/lifecycle/
+* out/production/ActivityLifecycle/com/example/android/lifecycle/ActivityA.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/ActivityB.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/ActivityC.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/BuildConfig.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/DialogActivity.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$attr.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$color.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$dimen.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$drawable.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$id.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$layout.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R$string.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/R.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/util/
+* out/production/ActivityLifecycle/com/example/android/lifecycle/util/StatusTracker.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/util/Utils$1.class
+* out/production/ActivityLifecycle/com/example/android/lifecycle/util/Utils.class
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/android-support-v13.jar => app/libs/android-support-v13.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

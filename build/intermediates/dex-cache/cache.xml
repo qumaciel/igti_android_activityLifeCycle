@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187ea1d95df753c35754d87083f825f251b54e62">
+        <dex dex="/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cf920d1e229313c2d5658ae4e89ec1a21144b89a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_752b1ec7b011cda6c410cfa9d8d647d70836139c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="/Users/thiago/AndroidStudioProjects/ActivityLifecycle1/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_76f7a1c02dc5b05083b8dbf37b861ad069d56f3d/classes.dex" />
+    </item>
+
+</items>
